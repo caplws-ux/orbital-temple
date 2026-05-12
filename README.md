@@ -139,3 +139,5 @@ If you want, I can help you build any of these next:
 
 
 ---
+Licensed under the ISS License 1.0 (`ISS-1.0`).
+See `ISS License 1.0.md` for details.
