@@ -1,0 +1,26 @@
+SPDX identifier for ISS License
+
+Here’s a clean, SPDX‑style identifier you can start using:
+
+• Identifier: ISS-1.0
+• Full name: ISS License 1.0
+• Short description: International System Support / Scaffolding License, version 1.0
+
+
+How to use it in your files
+
+In source files:
+
+SPDX-License-Identifier: ISS-1.0
+
+
+In your ISS License 1.0.md header:
+
+ISS License 1.0
+SPDX-Identifier: ISS-1.0
+
+
+In your README.md:
+
+Licensed under the ISS License 1.0 (`ISS-1.0`).
+See `ISS License 1.0.md` for details.
